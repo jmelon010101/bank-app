@@ -1,0 +1,33 @@
+.form-container {
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 6vh 0 0 6vh;
+    padding: 5px 15px 0 15px;
+    height: 50vh;
+    max-width: 50vh;
+}
+
+.login-header {
+    margin: 1.5vh 0 0 0;
+    font-size: 30px;
+}
+
+.login-sub-header {
+    margin: 0.5vh 0 0 0;
+    font-size: medium;
+}
+
+.input-text-field {
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    border-radius: 0 !important;
+}
+
+.email-container {
+    margin: 3vh 0 0 0;
+}
+
+.password-container {
+    margin: 2vh 0 0 0;
+}

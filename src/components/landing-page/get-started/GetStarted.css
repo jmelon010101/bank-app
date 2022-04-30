@@ -1,0 +1,27 @@
+.get-started {
+    background-image: url("https://i.picsum.photos/id/1043/5184/3456.jpg?hmac=wsz2e0aFKEI0ij7mauIr2nFz2pzC8xNlgDHWHYi9qbc");
+    background-size: cover;
+    margin: .5em;
+    /* border: 1px solid rgb(0, 0, 0); */
+    height: 70vh;
+}
+
+.content-block {
+    margin: 15vh 0 0 15vh;
+    color: white;
+    /* border: 2px solid rgb(130, 235, 130); */
+    height: 40vh;
+    max-width: 60vh;
+}
+
+.main-header {
+    margin: 1vh 0 0 0;
+}
+
+.sub-header {
+    margin: 3vh 0 0 0;
+}
+
+.get-started-button {
+    margin: 3vh 0 0 0;
+}

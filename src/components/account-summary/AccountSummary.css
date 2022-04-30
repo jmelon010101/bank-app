@@ -1,0 +1,17 @@
+.account-summary-container {
+    /* border: 2px solid blueviolet; */
+    max-height: 95vh;
+    display: flex;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.side-bar {
+    border: 2px solid orange;
+    display: inline-block;
+}
+
+.deposits-and-investments {
+    border: 2px solid green;
+    display: inline-block;
+}

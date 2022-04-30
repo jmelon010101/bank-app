@@ -1,0 +1,26 @@
+.nav-container {
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: rgba(152, 151, 151, 0.623);
+}
+
+
+
+.brand {
+    padding: 0 5vh 0 3vh; 
+    font-weight: 600;
+    margin: 0 !important;
+    background-color: #0d6efd;
+    color: white;
+}
+
+.links {
+    display: flex;
+}
+
+.link:hover {
+    background-color:#639ef7;
+    border-radius: 10px;
+}
